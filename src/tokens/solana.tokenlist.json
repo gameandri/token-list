@@ -21252,3 +21252,16 @@
     "instagram": "https://instagram.com/bricksproperties"
   }
 }
+{
+          "chainId": 101,
+          "address": "FuohVTafJxfkhepJrvycCyyJNPyrmED3sN7fen9RX4ho",
+          "symbol": "TIGER",
+          "name": "Tiger On Solana",
+          "decimals": 9,
+          "logoURI": "https://l.top4top.io/p_2133f73op1.png",
+          "tags": ["Meme-token"],
+          "extensions": {
+            "website": "http://soltiger.cf"
+            "twitter":"https://twitter.com/TigerOnSolana"
+          }
+        },
